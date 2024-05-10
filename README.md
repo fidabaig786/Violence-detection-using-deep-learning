@@ -1,0 +1,1 @@
+This GitHub repository implements Convolutional Neural Network (CNN) models for detecting violence in videos. It includes various CNN architectures such as VGG16, ResNet, InceptionV3, MobileNet, and DenseNet trained and evaluated on labeled video datasets. Contributions and dataset suggestions are welcome!
